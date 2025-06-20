@@ -85,7 +85,7 @@ By completing this project, contributors will:
 
 ---
 
-## 👥 Project Roles & Responsibilities
+## 👥 Project Roles and Responsibilities
 
 | Role              | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
