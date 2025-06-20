@@ -100,7 +100,7 @@ By completing this project, contributors will:
 
 ---
 
-## 🧱 UI Component Architecture
+## 🧱 UI Component Patterns
 
 ### 🔧 Planned Components
 
